@@ -1,4 +1,5 @@
 {
+  "workbench.editor.enablePreview": false,
   "workbench.colorTheme": "Jetbrains Dracula Theme",
   "workbench.iconTheme": "pcode-icon-theme-jetbrains",
   "workbench.productIconTheme": "iconcarbon",
@@ -17,6 +18,22 @@
   "vim.useSystemClipboard": true,
   "vim.useCtrlKeys": true,
   "vim.hlsearch": true,
+  // --- ini opsi custom status bar color ---
+  // "vim.statusBarColorControl": true,
+  // "vim.statusBarColors.normal": [
+  //   "#8FBCBB",
+  //   "#434C5E"
+  // ],
+  // "vim.statusBarColors.insert": "#BF616A",
+  // "vim.statusBarColors.visual": "#B48EAD",
+  // "vim.statusBarColors.visualline": "#B48EAD",
+  // "vim.statusBarColors.visualblock": "#A3BE8C",
+  // "vim.statusBarColors.replace": "#D08770",
+  // "vim.statusBarColors.commandlineinprogress": "#007ACC",
+  // "vim.statusBarColors.searchinprogressmode": "#007ACC",
+  // "vim.statusBarColors.easymotionmode": "#007ACC",
+  // "vim.statusBarColors.easymotioninputmode": "#007ACC",
+  // "vim.statusBarColors.surroundinputmode": "#007ACC",
   "vim.normalModeKeyBindingsNonRecursive": [
     {
       "before": ["<space>"],
